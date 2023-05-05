@@ -1,0 +1,10 @@
+match:
+  minimum-players: 4
+  duration: 120
+
+  messages:
+    preparing: "&ePreparing.."
+
+  victory-commands:
+    - "say victory example"
+    - "say example two"

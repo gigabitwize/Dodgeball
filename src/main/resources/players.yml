@@ -1,0 +1,8 @@
+player:
+  messages:
+    join: "&9&l%player% &9has joined the game"
+
+team:
+  messages:
+    member-quit: "&c&l%player% &chas left the match"
+

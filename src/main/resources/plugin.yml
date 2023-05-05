@@ -1,0 +1,6 @@
+name: SD-Dodgeball
+version: 1.0
+api-version: 1.19
+main: com.pixelsandmagic.dodgeball.DodgeballPlugin
+author: netious
+depend: [WorldEdit]
